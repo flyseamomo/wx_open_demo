@@ -1,4 +1,4 @@
-const wxapp_open = require("wxapp_open");
+const wxapp_open = require("wx_open_app");
 const redisConfig = require("./redisConfig");
 const {
   componentAppid,

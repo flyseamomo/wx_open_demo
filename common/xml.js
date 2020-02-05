@@ -1,4 +1,4 @@
-const API = require("./wx_open");
+const API = require("./wxOpen");
 
 module.exports = (ctx, next) => {
   return new Promise((resolve, reject) => {
